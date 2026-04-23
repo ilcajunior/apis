@@ -10,43 +10,43 @@
    {
       "id":2,
       "name":"Avental",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Avental de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 99,99",
       "available":true
    },
    {
       "id":3,
       "name":"Touca",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Touca de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 9,99",
       "available":true
    },
    {
       "id":4,
       "name":"Fronha",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Fronha de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 888,88",
       "available":true
    },
    {
       "id":5,
       "name":"Embalagem",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Embalagem de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 88,88",
       "available":true
    },
    {
       "id":6,
       "name":"Porta talher",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Porta talher de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 8,88",
       "available":true
    },
    {
       "id":7,
       "name":"Porta absorvente",
-      "description":"Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
-      "price":"R$ 999,99",
+      "description":"Porta absorvente de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price":"R$ 7,77",
       "available":true
    }
 ]
